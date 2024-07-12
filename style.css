@@ -28,7 +28,8 @@ body {
 
 .conti{
   text-align: center;
-  font-size: 15px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
   padding-top: 420px;
 }
 
